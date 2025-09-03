@@ -12,7 +12,7 @@ fun main() {
         ⣿⣿⡇⠄⠈⢿⣿⣯⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣽⣿⡟⠄⠄⣮⣿
         ⣿⣿⣷⠄⠄⠄⠹⣿⣷⣌⠙⢿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣾⣿⠋⠄⠄⠄⢹⣿
     """)
-    println("\nOlá jogador, prepare-se para a batalha! 💀\n")
+    println("\nOlá jogador, prepare-se para a batalha!! 💀\n")
 
     // 2️⃣ Criação de personagens
     val player = Player("Herói", 100, 20, 16, 3)
